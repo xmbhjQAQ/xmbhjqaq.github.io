@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>HELLO WORLD</title>
+      <link href="/2026/06/11/site-online/"/>
+      <url>/2026/06/11/site-online/</url>
+      
+        <content type="html"><![CDATA[<p>博客已经迁移到 Hexo 和 AnZhiYu 主题，并部署到 GitHub Pages。</p><p>这里会用来记录技术、生活和一些零散想法。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+          <category> AI </category>
+          
+          <category> 网络 </category>
+          
+          <category> 小项目 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
