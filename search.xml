@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>测试文章</title>
+      <link href="/2026/06/11/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+      <url>/2026/06/11/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<!--常用填写示例：categories:  - 技术  - 博客搭建tags:  - Hexo  - AnZhiYukeywords:  - Hexo  - 静态博客description: 这里写 150 字以内的文章摘要，留空时主题会从正文或标题生成。cover: /img/posts/example.webptop_img: /img/posts/example-banner.webp说明：- cover 留空表示未单独设置封面，AnZhiYu 会使用随机/默认封面逻辑；明确不要封面时写 cover: false。- top_img 留空时文章顶部图会优先使用 cover 或主题默认图；明确不要顶部图时写 top_img: false。- updated 留空即可，需要标注更新时间时再填写。- comments/mathjax/katex/aplayer 按文章需要改 true 或 false。- copyright_* 留空会使用站点默认版权信息。-->]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>HELLO WORLD</title>
       <link href="/2026/06/11/site-online/"/>
       <url>/2026/06/11/site-online/</url>
